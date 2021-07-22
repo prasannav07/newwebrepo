@@ -1,0 +1,252 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  color: white;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+h1 {
+  font-family: 'Headland One', serif;
+  ;
+  font-size: 4.5rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 12% 7%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding-right: 0;
+  padding: 0 0 3.5rem 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: 'Headland One', serif;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.phone-i {
+  width: 80%;
+  transform: rotate(40deg);
+  margin-top: 100px;
+  position: absolute;
+  right: 25%;
+  visibility: hidden;
+}
+
+#features {
+  padding: 5% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature {
+  text-align: center;
+  padding: 5%;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  color: grey;
+}
+
+.icon {
+  color: #ef8172;
+  margin: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  /* background-color: #ef8172; */
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 6%, rgba(177, 6, 64, 1) 50%, rgba(0, 212, 255, 1) 97%);
+  text-align: center;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+h2 {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.test-logo {
+  /* background-color: #fff; */
+  width: 15%;
+  border-radius: 10%;
+  margin: 20px;
+  line-height: 0.5;
+}
+
+#press {
+  /* background-color: #ef8172; */
+  text-align: center;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 6%, rgba(177, 6, 64, 1) 50%, rgba(0, 212, 255, 1) 97%);
+  padding-bottom: 3%;
+}
+
+/* .press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+} */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.btn-coln {
+  padding: 3% 2%;
+}
+
+/* footer section */
+#cta {
+  /* background-color: #ff4c68; */
+  text-align: center;
+  background: rgb(126, 122, 191);
+  background: linear-gradient(90deg, rgba(126, 122, 191, 1) 12%, rgba(230, 9, 9, 1) 71%, rgba(0, 212, 255, 1) 100%);
+  padding: 10%;
+  padding-top: 1%;
+  margin-top: 15%;
+}
+
+.newh3 {
+  color: #fff;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+#footer {
+  text-align: center;
+  padding: 10%;
+}
+
+.footer-class {
+  margin: 15px;
+}
+
+a {
+  color: #000;
+}
+
+.fa-laptop-code {
+  color: grey;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #C82867;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgb(2, 0, 36);
+}
+
+.mitnick {
+  padding-bottom: 77px;
+  margin-bottom: 80px;
+}
+
+/* under developing page */
+.maintanance {
+  text-align: center;
+  margin-top: 0;
+  padding: 250px 10px 250px 10px;
+}
+
+.back-button {
+  margin: 2% 5%;
+}
+
+#devil {
+  color: #fff;
+  /* background: rgb(126,122,191);
+  background: linear-gradient(90deg, rgba(126,122,191,1) 0%, rgba(230,164,9,1) 16%, rgba(0,212,255,1) 100%); */
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+.para-clr {
+  color: yellow;
+}
+
+/* aboutpage */
+/* .insert-img{
+  background: rgb(122,179,191);
+  background: linear-gradient(90deg, rgba(122,179,191,1) 0%, rgba(161,124,39,1) 49%, rgba(20,148,173,1) 100%);
+
+} */
+.ourself-1 {
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+h4 {
+  text-align: center;
+}
+
+.insert-img-1 {
+  /* background: rgb(161,124,39);
+  background: linear-gradient(90deg, rgba(161,124,39,1) 10%, rgba(153,117,48,1) 18%, rgba(150,114,51,1) 26%, rgba(142,107,60,1) 31%, rgba(138,103,65,1) 37%, rgba(120,87,86,1) 59%, rgba(46,20,173,1) 100%); */
+  /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+  width: 100%;
+  background-image: linear-gradient(to right top, #d16ba5, #a45e98, #795185, #53436d, #333351, #2f3b59, #2b435f, #284b64, #2d738f, #2e9fb7, #3bccd8, #5ffbf1);
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+.raja, .prasanna {
+  text-align: center;
+  margin-top: 0;
+  font-size: 50px;
+  color: #e4efe9;
+  font-family: 'Courgette', cursive;
+  line-height: 3;
+}
+
+.back-button-1 {
+  margin-top: 100px;
+}
+
+.bfr-btn {
+  background-image: linear-gradient(to right top, #ffffff, #edf9ff, #bffaff, #79fdff, #00fffd, #00f3f7, #00e8f1, #00dcea, #00bbf3, #1095eb, #7269c9, #96318d);
+}
+.lic{
+  margin: 10px;
+  text-align:center;
+}
+.navbar-dark .navbar-toggler-icon {
+  background-color: yellow;
+
+}
